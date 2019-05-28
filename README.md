@@ -8,4 +8,3 @@ Nguyễn Thị Thủy Ngân      MSSV:
 
 Lê Tấn Lộc                MSSV:18600155
 
-Yêu cầu đồ án:
