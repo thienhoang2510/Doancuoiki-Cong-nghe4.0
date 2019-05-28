@@ -6,6 +6,6 @@ Hoàng Ngọc Thiện          MSSV:18600255
 
 Nguyễn Thị Thủy Ngân      MSSV:
 
-Lê Bá Lộc                 MSSV:   
+Lê Tấn Lộc                MSSV:18600155
 
 Yêu cầu đồ án:
