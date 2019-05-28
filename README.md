@@ -2,7 +2,7 @@
 
 Thành viên:
 
-Hoàng Ngọc Thiện          MSSV:18600255
+Hoàng Ngọc Thiện          MSSV: 18600255      Email: hngthien2000@gmail.com
 
 Nguyễn Thị Thủy Ngân      MSSV:18600181
 
