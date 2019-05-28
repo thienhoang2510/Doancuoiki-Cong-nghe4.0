@@ -4,7 +4,7 @@ Thành viên:
 
 Hoàng Ngọc Thiện          MSSV: 18600255      Email: hngthien2000@gmail.com
 
-Nguyễn Thị Thủy Ngân      MSSV:18600181
+Nguyễn Thị Thủy Ngân      MSSV:18600181       Email:
 
-Lê Tấn Lộc                MSSV:18600155
+Lê Tấn Lộc                MSSV:18600155       Email:
 
