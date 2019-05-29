@@ -1,1 +1,9 @@
-
+Tạo Folder với tên là: <MSSV1>_<MSSV2>_<MSSV3>
+Trong Folder bao gồm các file:
+-README.md (cú pháp của Mark down):
+ +Danh sách thành viên nhóm (MSSV, họ tên, email)
+ +Link GitHub
+-Report.docx
+-Report.xlsx
+-Present.pptx
+-Reference chứa các tài liệu tham khảo
