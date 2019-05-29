@@ -10,4 +10,3 @@ Lê Tấn Lộc                MSSV:18600155       Email: 3metbedoi2000@gmail.co
 
 Link GitHub: https://github.com/thienhoang2510/Doancuoiki-Cong-nghe4.0
 
-Link GitHub: https://github.com/ngannguyen281200
