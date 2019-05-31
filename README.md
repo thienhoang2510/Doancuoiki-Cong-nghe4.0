@@ -1,4 +1,4 @@
-# Đồ án cuối kỳ-Công nghệ 4.0:
+# Đồ án cuối kỳ: CÔNG NGHỆ 4.0
 
 ## Thành viên:
 |Họ tên| MSSV | Email | Số điện thoại |
